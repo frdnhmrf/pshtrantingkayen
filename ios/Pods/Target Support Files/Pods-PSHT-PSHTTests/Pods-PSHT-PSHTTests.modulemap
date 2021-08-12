@@ -1,0 +1,6 @@
+module Pods_PSHT_PSHTTests {
+  umbrella header "Pods-PSHT-PSHTTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

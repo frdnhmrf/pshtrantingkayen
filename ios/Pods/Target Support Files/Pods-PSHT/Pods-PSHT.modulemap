@@ -1,0 +1,6 @@
+module Pods_PSHT {
+  umbrella header "Pods-PSHT-umbrella.h"
+
+  export *
+  module * { export * }
+}
